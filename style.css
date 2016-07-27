@@ -1,17 +1,18 @@
- span{
- font-family: cursive;
+ #text {
+ font-family: Arial;
  font-size: 15px;
  color:grey;
  }
 
- div{
- background-color:silver;
+ div {
+ background-color:#f7f5f2;
  width:850px;
  height:900px;
  padding-left:350px;
+ font-family:Arial;
  
  }
- hr {
+ hr  {
     width: 550px;
     height: 2px; 
 	background:grey;
